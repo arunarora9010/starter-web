@@ -1,0 +1,2 @@
+Does Java 11 use Groovy?
+Getting started with Groovy and Java 11 project Since JDK 11 requirements have changed for Groovy, you need to perform some additional steps to successfully run the Groovy code in IntelliJ IDEA. In this tutorial, you'll create a Groovy project with JDK 11, add simple code, and run a Groovy script
