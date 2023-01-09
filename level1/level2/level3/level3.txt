@@ -1,6 +1,0 @@
-Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC) 
-Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
-Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
-Boolean data: A data type with only two possible values, usually true or false
-Borders: Lines that can be added around two or more cells on a spreadsheet
-Business task: The question or problem data analysis resolves for a business 
