@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arun Arora arun.kumar.thapar@gmail.com arun9010
 
 # THANKS
 
