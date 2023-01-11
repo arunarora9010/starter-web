@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  ADDING A line for rebase example
+This repository is for showing how Git and GitHub work.  ADDING A line for rebase example, then more change from myfeature branch too
 
 ## Introduction
 
