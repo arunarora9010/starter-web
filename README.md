@@ -13,3 +13,7 @@ Sample website with plenty of files for demos, another addition
 ## Deployment
 
 This was the demo Deployment, secondary change
+
+### Copyright
+
+2023 Git.Training
