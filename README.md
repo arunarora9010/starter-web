@@ -8,8 +8,8 @@ This is just a introuction part
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, another addition
 
 ## Deployment
 
-This was the demo Deployment
+This was the demo Deployment, secondary change
