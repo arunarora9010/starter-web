@@ -14,6 +14,10 @@ Sample website with plenty of files for demos, another addition
 
 This was the demo Deployment, secondary change
 
+## How To Contribute
+
+Please fork this repositry and then issue pull request for review
+
 ### Copyright
 
 2023 Git.Training 1.1
