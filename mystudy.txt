@@ -5,3 +5,4 @@ Data analysis process: The six phases of ask, prepare, process, analyze, share, 
 Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analytics: The science of data
 Data anonymization: The process of protecting people's private or sensitive data by eliminating identifying information
+I Will study more
